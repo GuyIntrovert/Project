@@ -1,0 +1,247 @@
+Data science Topics:
+..............................................................................
+
+
+
+1) Gender and Age Detection with Data Science
+2) Uber Data Analysis in R
+3) Fake News Detection
+4) Road Lane Line Detection
+5) Sentiment Analysis
+6) Detecting Parkinson’s Disease
+7) Color Detection with Python
+8) Brain Tumor Detection with Data Science
+9) Leaf Disease Detection
+10) Speech Emotion Recognition
+11) LOAN DEFAULTER PREDICTION
+12) TEXT ANALYTICS USING MACHINE LEARNING
+13) Driver Drowsiness detection in Python
+14) Chatbot Project in Python
+15) Handwritten Digit Recognition Project
+16) Image Caption Generator Project in Python
+17) Customer Segmentation system
+18) House price prediction system
+19) Movie recommendation system
+20) Personality prediction system
+21) Prediction of Air Fare
+22) Handwritten digit classification system
+23) Insurance Fraud detection
+24) Fitness activity recognition for smartphone
+25) Android chatbot
+26) Online examination and evaluation system
+27) Credit Card Fraud Detection:
+28) Fraud app detection software
+29) Gender and age detection system
+30) Emotion recognition software
+31) Gender and Age Detection with Data Science
+32) Uber Data Analysis in R
+33) Fake News Detection
+34) Road Lane Line Detection
+35) Sentiment Analysis
+36) Detecting Parkinson’s Disease
+37) Color Detection with Python
+38) Brain Tumor Detection with Data Science
+39) Leaf Disease Detection
+40) Speech Emotion Recognition
+41) LOAN DEFAULTER PREDICTION
+42) TEXT ANALYTICS USING MACHINE LEARNING
+43) Driver Drowsiness detection in Python
+44) Chatbot Project in Python
+45) Handwritten Digit Recognition Project
+46) Image Caption Generator Project in Python
+47) Customer Segmentation system
+48) House price prediction system
+49) Movie recommendation system
+50) Personality prediction system
+51) Prediction of Air Fare
+52) Handwritten digit classification system
+53)Insurance Fraud detection
+54)Fitness activity recognition for smartphone
+55) Android chatbot
+56) Online examination and evaluation system
+57) Credit Card Fraud Detection system
+58) Fraud app detection system
+59) Gender and age detection system
+60) Emotion recognition system
+61) Stock price prediction system
+62) Credit scoring system
+63) Stock price prediction system
+64) Credit scoring system
+Time Series Analysis: Forecast COVID-19 Vaccination Rate
+Using Multiple features in Time Series Prediction 
+How to use CatBoost For Mental Fatigue Score Prediction
+Breast Cancer Prediction 
+Wine Quality Prediction Using Machine Learning
+Prediction of Health Expense
+Bitcoin Price Prediction Using Recurrent Neural Networks and LSTM
+How to create a Stroke Prediction Model?
+Car Price Prediction System : Build and Deploy a Machine Learning Model
+Stock Price Prediction and Forecasting using Stacked LSTM
+Classification algorithms in Python – Heart Attack Prediction and Analysis
+Breast Cancer Prediction 
+Stock Market Price Trend Prediction Using Time Series Forecasting
+The Complete Guide to Checking Account Churn Prediction in BFSI Domain
+Boost Model Accuracy of Imbalanced COVID-19 Mortality Prediction Using GAN-based Oversampling Technique
+The Lifecycle to Build a Web Application for Prediction from Scratch
+Movie Recommendation and Rating Prediction using K-Nearest Neighbors
+Building Sales Prediction Web Application using Machine Learning Dataset
+A Guide to Link Prediction – How to Predict your Future Connections on Facebook
+How to use a Machine Learning Model to Make Predictions on Streaming Data using PySpark
+Stock Prices Prediction Using Machine Learning and Deep Learning Techniques (with Python codes)
+A Guide to Sequence Prediction using Compact Prediction Tree (with codes in Python)
+Making Predictions on Test Data after Principal Component Analysis in R
+Learn Gradient Boosting Algorithm for better predictions (with codes in R)
+Kaggle Bike Sharing Demand Prediction – How I got in top 5 percentile of participants?
+Classification of Crops using Machine Learning
+Introduction to Audio Classification
+Plant Seedlings Classification Using CNN – With Python Code
+Predictive Analytics for Personalized Cancer Diagnosis
+Alleviation of COVID by means of Social Distancing & Face Mask Detection
+Titanic survivors, a guide for your first Data Science project
+Google Earth Engine Machine Learning for Land Cover Classification
+Creating a Grocery Product and Recipe Recommender
+How Aviation Industry Uses Data Science?
+License Plate Character Recognition using kNN and CNN
+Language Detection Using Natural Language Processing
+An Image is Worth 16×16 Words: Transformers for Image Recognition at Scale (Vision Transformers)
+Incremental and Reinforced learning for Image classification
+Introduction to Hugging Face’s Transformers v4.3.0 and its First Automatic Speech Recognition Model
+Modelling stock price using financial ratios and its applications to make buy/sell/hold decisions
+Trim Videos with Deep Learning
+AlgoTrading using Technical Indicator and ML models
+Coca-Cola Bottle Image Recognition (with Python code)
+Fake news classifier on US Election News
+Using Predictive Power Score to Pinpoint Non-linear Correlations
+Control the Mouse with your Head Pose using Deep Learning with Google Teachable Machine
+Attention Mechanism For Image Caption Generation in Python
+Employee Attrition Analysis using Logistic Regression with R
+Predicting Stock Prices using Reinforcement Learning (with Python Code)
+Bet Wisely: Predicting the Scoreline of a Football Match using Poisson Distribution
+Time Series Forecasting using Facebook Prophet library in Python
+Examining the Simple Linear Regression method for forecasting stock prices using Excel
+Image classification with Microsoft Lobe
+Color Your pictures with ChromaGan
+Create your Own Image Classification Model using Python and Keras
+Build an End to End Image Classification/Recognition Application
+Demystification of Logistic Regression
+Predicting NYC AirBnB Rental Prices with TensorFlow
+Pneumonia Detection using CNN with Implementation in Python
+How to build a Face Mask Detector using RetinaNet Model
+Build your Own Object Detection Model using TensorFlow API
+Sports Analytics – Generating Actionable Insights using Cricket Commentary
+Using the Power of Deep Learning for Cyber Security
+Predicting Movie Genres using NLP 
+Deep Q-Learning using OpenAI Gym in Python
+Building a Mask R-CNN Model for Detecting Car Damage (with Python codes)
+Data Science in the Indian Agriculture Industry
+This Job Site uses Machine Learning to Find Qualified and Deserving Candidates
+Comparative Stock Market Analysis in R 
+Age Detection
+Investigating the PageRank and sequence prediction based approaches for next page prediction
+A Predictive Framework in Healthcare: Case Study on Cardiac Arrest Prediction
+Predicting the Scoring Time in Hockey
+Fire Spread Mapping and Prediction
+Prediction of Fetal Age
+Disease Prediction Using Artificial Intelligence
+Predictive intelligence and predicting policing to prevent crime in cities
+Predictive model construction for prediction of soil fertility using decision tree machine learning algorithm
+Rainfall Prediction and Suitable Crop Suggestion Using Machine Learning Prediction Algorithms
+Predicting future technological convergence patterns based on machine learning using link prediction
+Models for Predicting Global Plastic Waste
+
+
+
+Weight Prediction Model
+Face Mask Detector
+Stock Market Analysis
+prediction of disease on the crops. Informs about various diseases on the plant
+Airline reservation system
+Song Recommender System
+Driver Drowsiness System
+automatic parking space detection system
+Presentation on Evolution of Electric Vehicles
+Traffic Light Control System
+Future Trends in Fiber Optics Communication
+
+Designing and manufacturing of Rain Sensor Circuit
+Loan Default Prediction Project using Gradient Booster
+Optical Character Recognition
+Data Mining In Fraud Detection
+Robotics Car
+Review Of Progress In Artificial General Intelligence And Human Brain Inspired Cognitive Architecture
+Twitter Sentiment Analysis
+Predict housing prices
+Predict subscription by client
+Credit Card fraud detection using ML algorithms
+Credit Card Fraud Detection using ML
+Smart plug To control and automate the home appliances from smartphone using ESP8266 board
+Covid-19 analysis with Machine Learning and AI
+A brief Research on Precision &amp; Smart Farming Techniques
+Building Twitter Bot With Python
+Emerging Trends in Computer Engineering
+Object detection project using AI/ML.
+Credit Card Fraud Detection using Machine Learning Algorithms
+Data Mining in Fraud detection
+Effect of Corona virus on financial sheets of startups companies
+Distance meter To measure distance using ultrasonic sensor and arduinoUNO
+Heart Disease Prediction in Medical Industries using Data Mining Techniques
+Churn Prediction in Telecom Industry using Artificial Neural
+MACHINE LEARNING MODEL for CBR Prediction in Soil		
+Loan Default Prediction Project using Gradient Booster/any other model
+Heart Disease Prediction in Medical Industries using Data Mining Techniques
+fake news detection using online dataset on Kaggle Notebook
+Review paper on Road Condition and Rail Track Analysis
+Instagram Fake Profile Detection
+Real and Fake News Detection using Passive Aggressive Classifier
+Face Detection
+Emerging Trends in Computer Engineering in view of Pre and Post Impacts of Covid 19
+Movie Recommendation System
+Fingerprint door lock Sensor using Arduino uno
+UK car accident and insurance predictor using ML
+Data transmission Through LIFI
+Machine Learning in Image Processing
+Optical Character Recognition and Text to Audio Converter
+Arduino based Robotic Car with MATLAB GUI
+Burglar Alarm using IC 555 timer
+Mobile Controlled Robot Using Arduino.
+Predicting market basket analysis using Apriori algorithm
+Fake News Detection
+Detecting COVID -19 with Chest X-Ray
+Twitter Sentiment Analysis 
+Fake News Detection
+Loan Approval Prediction
+Sign language Recognition
+Laser security system.
+Data transmission using light fidelity system.
+Rain Sensor - Designing and manufacturing of Rain Sensor Circuit
+IPL Data Analysis - Analysis of performance of teams and players in IPL	
+Natural Language Processing for Opinion Mining	
+Analysis of performance of teams and players in IPL				Driver Drowsiness Detection System
+Smart luggage - To prevent the burden of carrying heavy luggage at places of transport like airports, railway station, bus stand our group is developing a bot that carries our luggage behind us.
+RFID Based Solenoid Door lock using Arduino							
+Fake News Detection
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
